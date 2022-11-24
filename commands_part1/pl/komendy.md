@@ -104,7 +104,9 @@ Czas działania:
 ##
 
 ^ = Ctrl
+
 ^+l - wyczyść ekran (małe L)
+
 Tab - autodopełnianie
 
 Parametry jedno literowe oznaczamy jednym -,
