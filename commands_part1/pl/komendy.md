@@ -105,7 +105,7 @@ Czas działania:
 
 ^ = Ctrl
 
-^+l - wyczyść ekran (małe L)
+^+l - wyczyści ekran / terminal (małe L)
 
 Tab - autodopełnianie
 
