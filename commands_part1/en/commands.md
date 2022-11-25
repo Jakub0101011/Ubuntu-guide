@@ -1,7 +1,7 @@
 # Commands ubuntu part 1
 
 ## Link to directory structures:
-(structures)[http://www.mtitek.com/tutorials/linux/filemgmt_path.php] or (structures 2)[https://help.ubuntu.com/community/LinuxFilesystemTreeOverview]
+[structures](http://www.mtitek.com/tutorials/linux/filemgmt_path.php) or [structures 2](https://help.ubuntu.com/community/LinuxFilesystemTreeOverview)
 
 ## Help
 man
