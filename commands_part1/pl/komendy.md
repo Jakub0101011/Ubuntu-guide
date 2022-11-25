@@ -1,7 +1,7 @@
 # Komendy ubuntu część 1
 
 ## Link do struktur katalogów:
-(struktury)[https://ubuntu.com.pl/linux-struktura-katalogow/]
+[struktury](https://ubuntu.com.pl/linux-struktura-katalogow/)
 
 ## Pomoc
 man
