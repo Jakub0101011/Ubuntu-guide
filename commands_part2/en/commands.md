@@ -1,1 +1,1 @@
-# Coming soon (so 28/29.11.22) 🙄
+# Coming soon 🙄
