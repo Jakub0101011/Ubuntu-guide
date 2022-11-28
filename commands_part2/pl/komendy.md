@@ -8,7 +8,7 @@ echo "test test" > plik
 
 ---
 
-Użytkownicy
+**Użytkownicy**
 
 ---
 
@@ -80,7 +80,7 @@ chage
 
 ---
 
-Konto administratora = roota
+**Konto administratora = roota**
 
 ---
 
