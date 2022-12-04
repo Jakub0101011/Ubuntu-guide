@@ -48,18 +48,18 @@ chmod
 
 ---
 
-# Sprawdzenie jak długo pracuje system
+## Sprawdzenie jak długo pracuje system
 uptime
 
-# Sprawdzenie zajętości dysków lokalnych 
+## Sprawdzenie zajętości dysków lokalnych 
 df
 - -h
 
-# Sprawdzenie zajętości dysku
+## Sprawdzenie zajętości dysku
 du
 - -sh (sumaryczne dla danego katalogu)
 
-# Sprawdzenie wykorzystania pamięci RAM
+## Sprawdzenie wykorzystania pamięci RAM
 free
 - -h
 
