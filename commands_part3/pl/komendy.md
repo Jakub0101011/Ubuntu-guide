@@ -94,5 +94,5 @@ apt
 	
 ## Instalacja pakietu htop
 
-[kliknij](https://github.com/pokczampDev/Ubuntu-guide/tree/main/installation-htop)
+[Kliknij](https://github.com/pokczampDev/Ubuntu-guide/tree/main/installation-htop)
 
