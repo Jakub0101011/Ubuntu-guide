@@ -113,3 +113,6 @@ Parametry jedno literowe oznaczamy jednym -,
 parametry dłuższe oznaczamy --
 
 > np. -r, --name
+
+## Przejdź dalej do części 2
+[Kliknij](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part2/pl/komendy.md)

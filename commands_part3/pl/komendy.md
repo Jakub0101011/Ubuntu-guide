@@ -96,3 +96,8 @@ apt
 
 [Kliknij](https://github.com/pokczampDev/Ubuntu-guide/tree/main/installation-htop)
 
+## Powrót do części 2
+[Kliknij](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part2/pl/komendy.md)
+
+## Przejdź dalej do części 4
+[Kliknij](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part4/pl/komendy.md)

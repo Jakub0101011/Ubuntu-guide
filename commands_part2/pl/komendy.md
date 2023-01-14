@@ -96,3 +96,9 @@ cat /etc/group | grep wheel lub sudo
 usermod -aG sudo user
 
 sudo apt update
+
+## Powrót do części 1
+[Kliknij](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part1/pl/komendy.md)
+
+## Przejdź dalej do części 3
+[Kliknij](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part3/pl/komendy.md)

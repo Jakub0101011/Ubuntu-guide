@@ -114,3 +114,6 @@ We label one letter parameters -,
 longer parameters are marked --
 
 > e.g. -r, --name
+
+## Continue to part 2
+[Kliknij](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part2/en/commands.md)

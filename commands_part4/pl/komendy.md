@@ -283,3 +283,6 @@ socat - TCP4:1.1.1.1:81
 > podajemy IP i PORT serwera
 
 > w tym momencie możemy wysyłać wiadomości pomiędzy dwoma hostami
+
+## Powrót do części 3
+[Kliknij](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part3/pl/komendy.md)
