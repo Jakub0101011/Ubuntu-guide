@@ -97,7 +97,7 @@ apt
 [Click](https://github.com/pokczampDev/Ubuntu-guide/tree/main/installation-htop)
 
 ## Back to part 2
-[Kliknij](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part2/en/commands.md)
+[Click](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part2/en/commands.md)
 
 ## Continue to part 4
-[Kliknij](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part4/en/commands.md)
+[Click](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part4/en/commands.md)

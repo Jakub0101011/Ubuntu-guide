@@ -98,7 +98,7 @@ usermod -aG sudo user
 sudo apt update
 
 ## Back to part 1
-[Kliknij](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part1/en/commands.md)
+[Click](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part1/en/commands.md)
 
 ## Continue to part 2
-[Kliknij](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part2/en/commands.md)
+[Click](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part2/en/commands.md)
