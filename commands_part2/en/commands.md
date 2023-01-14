@@ -100,5 +100,5 @@ sudo apt update
 ## Back to part 1
 [Click](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part1/en/commands.md)
 
-## Continue to part 2
-[Click](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part2/en/commands.md)
+## Continue to part 3
+[Click](https://github.com/pokczampDev/Ubuntu-guide/blob/main/commands_part3/en/commands.md)
